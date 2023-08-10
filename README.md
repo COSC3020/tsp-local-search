@@ -5,7 +5,7 @@ lecture on NP-hard problems -- given a set of cities, determine the length of
 the shortest tour that visits all of them. We can get from any city to any other
 city, i.e. the graph of cities is completely connected. We consider the version
 of the Traveling Salesperson Problem that finds the shortest tour to visit $n$
-cities, starting at a city and ending at the $n$th city; it *does not* go
+cities, starting at a city and ending at the $n$ th city; it *does not* go
 back to the start. The start city may be any of the cities. Remember that the
 graph for a TSP is undirected, i.e. the cost is the same in either direction.
 
