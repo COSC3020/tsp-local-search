@@ -37,7 +37,8 @@ Second, design a way to choose $i$ and $k$ -- note that they need to be
 different in subsequent iterations, as one iteration would simply undo what
 the previous one did otherwise. Start with the template I provided in `code.js`.
 Describe in your code how you designed your stopping criterion and ways of
-choosing $i$ and $k$ and why.
+choosing $i$ and $k$ and why. Your explanation should consider alternative ways
+of implementing this and why you decided against them.
 
 The function takes a distance matrix (the adjacency matrix for the graph where
 the values in the cells are the distances between the corresponding cities) and
